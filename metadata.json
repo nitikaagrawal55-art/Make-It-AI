@@ -1,0 +1,6 @@
+{
+  "name": "Make It AI",
+  "description": "An AI-powered generator that analyzes user problems, designs highly personalized micro-AI agents to solve them, and shares them within a simulated subscriber and commission-earning library ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
